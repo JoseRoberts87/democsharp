@@ -6,7 +6,8 @@ namespace demoproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Who are you");
+            Console.WriteLine("how are you " + Console.ReadLine());
         }
     }
 }
